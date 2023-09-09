@@ -3,3 +3,6 @@ class User:
 
 class User2:
     pass
+
+class User3:
+    pass
